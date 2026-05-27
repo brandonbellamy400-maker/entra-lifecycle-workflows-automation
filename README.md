@@ -41,7 +41,7 @@ The final production audit dashboard within the **Microsoft Entra Admin Center**
 
 ![Entra ID Lifecycle Workflow History](Screenshot%202026-05-25%20193229.png)
 
-#### 🔍 Root-Cause Analysis & Engineering Remediation:
+#### 🔍 Root-Cause Analysis & Engineering Remediation
 As a Cloud Engineer, observing and debugging failures is where architectural resilience is built. The ledger above tells an authentic technical story:
 
 1. **The Initial Incident (User: `Chris Green` at 6:51 PM & 6:54 PM):**
